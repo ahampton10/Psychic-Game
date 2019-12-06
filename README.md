@@ -1,5 +1,8 @@
 # Psychic-Game
 
+## Link: 
+https://ahampton10.github.io/Psychic-Game/
+
 ## Assignment Overview: 
 * Create a Game with the following rules: 
 * You're going to make a game just like the one in the video. Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose. Put the following text on your page:
